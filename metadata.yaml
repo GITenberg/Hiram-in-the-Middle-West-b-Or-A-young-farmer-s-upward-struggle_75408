@@ -8,12 +8,17 @@ contributor:
     deathdate: 1955
     gutenberg_agent_id: '7682'
     url: http://www.gutenberg.org/2009/agents/7682
+covers:
+- cover_type: archival
+  image_path: 75408-h/images/cover.jpg
 creator:
   author:
     agent_name: Todd, Burbank L.
     gutenberg_agent_id: '692'
     url: http://www.gutenberg.org/2009/agents/692
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75408#Hiram-in-the-Middle-West-b-Or-A-young-farmer-s-upward-struggle
 gutenberg_issued: '2025-02-19'
 gutenberg_type: Text
 identifiers:
